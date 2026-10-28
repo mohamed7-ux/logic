@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide"
 )
 
-SERVER = r"DESKTOP-IFO80R1\SQLEXPRESS"
+SERVER = r"localhost\SQLEXPRESS"
 FILTER_KEYS = ["f_products", "f_qty", "f_price", "f_profit", "f_sort"]
 
 
